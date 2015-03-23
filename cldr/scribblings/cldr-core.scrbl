@@ -107,7 +107,7 @@ The @racket[cldr-json] procedure takes:
   @item{the path to this zipfile (typically defined within the package using
         @racket[define-runtime-path]);}
   @item{the name of the package (which doubles as the name of the zipfile,
-        without the @tech{.zip} extension);}
+        without the @tt{.zip} extension);}
   @item{the path within the zipfile to the desired @tt{.json} file; and}
   @item{a key used to prune the returned JSON data.}
 ]}
