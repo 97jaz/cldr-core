@@ -1,7 +1,7 @@
 #lang info
 
 (define collection 'multi)
-(define deps '("base"))
+(define deps '("base" "memoize"))
 
 (define pkg-desc "CLDR core")
 
