@@ -1,3 +1,3 @@
 #lang info
 
-(define collection "cldr")
+(define scribblings '(("scribblings/cldr-core.scrbl" ())))

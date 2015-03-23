@@ -1,9 +1,7 @@
 #lang info
 
 (define collection 'multi)
-(define deps '("base"
-               "cldr-core"
-               "json"))
+(define deps '("base"))
 
 (define pkg-desc "CLDR core")
 
