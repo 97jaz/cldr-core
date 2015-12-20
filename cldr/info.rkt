@@ -1,3 +1,3 @@
 #lang info
 
-(define scribblings '(("scribblings/cldr-core.scrbl" ())))
+(define scribblings '(("scribblings/cldr-core.scrbl" () ("Localization and Internationalization"))))
